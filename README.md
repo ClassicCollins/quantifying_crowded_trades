@@ -1,6 +1,8 @@
 # quantifying_crowded_trades: A Comprehensive Analysis
 `MSC. Research Capstone Project at WorldQuant University`
+
 `Authors`: Collins Emezie Ugwuozor, Jayesh Chandra Gupta, and Emanuel Effiong Asuquo
+
 `Supervisor`: Prof. Ritabrata Bhattacharyya
 
 `Introduction`: This thesis proposal seeks to address the challenges posed by crowded trades by means of quantification and comprehensive analysis. We will employ two measures to identify bubbles emerging in various sectors and assets and determine the optimal exit points before they deflate completely. These measures include "asset centrality" and "relative value." Asset centrality identifies crowded trading often linked to bubble formation, while the relative value measure aids in distinguishing crowding during a bubble's ascent from that during its descent. It is important to note that neither measure, in isolation, suffices to identify the full cycle of a bubble. However, when combined, they hold the potential to locate bubbles within sectors and assets.
