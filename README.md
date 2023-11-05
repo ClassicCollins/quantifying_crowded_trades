@@ -1,4 +1,4 @@
-# quantifying_crowded_trades: A Comprehensive Analysis
+# Quantifying Crowded Trades (QCT): A Comprehensive Analysis
 `MSC. Research Capstone Project at WorldQuant University`
 
 `Authors`: Collins Emezie Ugwuozor, Jayesh Chandra Gupta, and Emanuel Effiong Asuquo
